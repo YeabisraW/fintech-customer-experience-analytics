@@ -2,9 +2,9 @@ from google_play_scraper import reviews, Sort
 import pandas as pd
 
 apps = {
-    "CBE": "com.cbe.mobilebanking",
-    "BOA": "com.bankofabyssinia.mobile",
-    "Dashen": "com.dashenbank.mobilebanking"
+    "CBE": "com.combanketh.mobilebanking",
+    "BOA": "com.boa.boaMobileBanking",
+    "Dashen": "com.dashen.dashensuperapp"
 }
 
 all_reviews = []
